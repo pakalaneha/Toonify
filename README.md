@@ -22,23 +22,24 @@ This project focuses on modular design, clean structure, and practical usage of 
 ---
 
 ## Project Structure
-toonify_project/
-│
-├── app.py
-├── image_processor.py
-├── anime_filter.py
-├── watercolor_filter.py
-├── oil.py
-├── low_poly.py
-├── tiled_mosaic.py
-├── auth.py
-├── database.py
-├── requirements.txt
-├── gallery_assets/
-├── streamlit/config.toml
-├── .gitignore
+
+```
+.
 ├── .env.example
-└── README.md
+├── README.md
+├── anime_filter.py
+├── app.py
+├── auth.py
+├── config.toml
+├── database.py
+├── image_processor.py
+├── low_poly.py
+├── oil.py
+├── requirements.txt
+├── tiled_mosaic.py
+└── watercolor_filter.py
+```
+
 
 ---
 
