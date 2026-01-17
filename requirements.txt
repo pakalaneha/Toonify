@@ -1,0 +1,31 @@
+# Web framework
+streamlit
+
+# Database
+psycopg2-binary
+argon2-cffi
+
+
+# Password encryption
+passlib[bcrypt]
+
+# Image processing
+opencv-contrib-python
+Pillow
+scikit-image
+matplotlib
+numpy
+pandas
+
+# Machine learning / deep learning
+torch
+torchvision
+torchaudio
+
+# Utilities
+filelock
+typing-extensions
+jinja2
+fsspec
+sympy
+networkx
